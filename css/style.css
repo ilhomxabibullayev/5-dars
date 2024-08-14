@@ -44,6 +44,10 @@
     gap: 30px;
 }
 
+.great__sub-title {
+    color: #FFFFFF;
+}
+
 .interested {
     width: 100%;
     max-width: Fixed (631px)px;
